@@ -3,3 +3,33 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "alabama"]
+	path = alabama
+	url = https://github.com/cran/alabama
+	shallow = true
+	registered = true
+[submodule "condMVNorm"]
+	path = condMVNorm
+	url = https://github.com/cran/condMVNorm
+	shallow = true
+	registered = true
+[submodule "dfoptim"]
+	path = dfoptim
+	url = https://github.com/cran/dfoptim
+	shallow = true
+	registered = true
+[submodule "features"]
+	path = features
+	url = https://github.com/cran/features
+	shallow = true
+	registered = true
+[submodule "SQUAREM"]
+	path = SQUAREM
+	url = https://github.com/cran/SQUAREM
+	shallow = true
+	registered = true
+[submodule "turboEM"]
+	path = turboEM
+	url = https://github.com/cran/turboEM
+	shallow = true
+	registered = true
