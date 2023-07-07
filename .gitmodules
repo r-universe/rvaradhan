@@ -17,6 +17,9 @@
 [submodule "features"]
 	path = features
 	url = https://github.com/cran/features
+[submodule "resilience"]
+	path = resilience
+	url = https://github.com/cran/resilience
 [submodule "SQUAREM"]
 	path = SQUAREM
 	url = https://github.com/cran/SQUAREM
