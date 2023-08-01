@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "SQUAREM"]
+	path = SQUAREM
+	url = https://github.com/cran/SQUAREM
 [submodule "alabama"]
 	path = alabama
 	url = https://github.com/cran/alabama
@@ -20,9 +23,6 @@
 [submodule "resilience"]
 	path = resilience
 	url = https://github.com/cran/resilience
-[submodule "SQUAREM"]
-	path = SQUAREM
-	url = https://github.com/cran/SQUAREM
 [submodule "turboEM"]
 	path = turboEM
 	url = https://github.com/cran/turboEM
