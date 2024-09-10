@@ -11,6 +11,9 @@
 [submodule "alabama"]
 	path = alabama
 	url = https://github.com/cran/alabama
+[submodule "anoint"]
+	path = anoint
+	url = https://github.com/cran/anoint
 [submodule "condMVNorm"]
 	path = condMVNorm
 	url = https://github.com/cran/condMVNorm
