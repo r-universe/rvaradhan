@@ -5,6 +5,9 @@
 [submodule "DSBayes"]
 	path = DSBayes
 	url = https://github.com/cran/DSBayes
+[submodule "FastHamming"]
+	path = FastHamming
+	url = https://github.com/cran/FastHamming
 [submodule "SQUAREM"]
 	path = SQUAREM
 	url = https://github.com/cran/SQUAREM
