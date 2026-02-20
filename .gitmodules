@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "BB"]
+	path = BB
+	url = https://github.com/cran/BB
 [submodule "DSBayes"]
 	path = DSBayes
 	url = https://github.com/cran/DSBayes
