@@ -32,6 +32,9 @@
 [submodule "features"]
 	path = features
 	url = https://github.com/cran/features
+[submodule "hpsreg"]
+	path = hpsreg
+	url = https://github.com/cran/hpsreg
 [submodule "resilience"]
 	path = resilience
 	url = https://github.com/cran/resilience
